@@ -31,4 +31,4 @@ class Solution(object):
                 node = node.left
                 
         return result
-            
+    

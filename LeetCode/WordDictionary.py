@@ -74,16 +74,6 @@ class WordDictionary(object):
                         return True
                 return False
          
-d = WordDictionary()
-d.addWord('abc')
-d.addWord("bad")
-d.addWord("dad")
-d.addWord("mad")
-print(d.search('pad'))
-print(d.search('bad'))
-print(d.search('.ad'))
-print(d.search('b..'))
-print(d.search('m.c'))
 # Your WordDictionary object will be instantiated and called as such:
 # wordDictionary = WordDictionary()
 # wordDictionary.addWord("word")

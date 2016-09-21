@@ -22,7 +22,6 @@ class Solution:
             
     def get_path(self, node, path):
         if node.left is None and node.right is None:
-            path += str(node.val)
             self.paths.append(path)
         if node.left is not None:
             self.get_path(node.left, path + "->" + str(node.left.val))
