@@ -28,4 +28,6 @@
 | 7             | Reverse Integer                                   | Easy       | Python       |
 | 1             | Two Sum                                           | Easy       | Java         |
 | 6             | ZigZag Conversion                                 | Easy       | Java         |
-| 145           | Binary Tree Postorder Traversal                   | Hard       | Pthon        |
+| 145           | Binary Tree Postorder Traversal                   | Hard       | Python       |
+| 199           | Binary Tree Right Side View                       | Medium     | Python       |
+| 103           | Binary Tree Zigzag Level Order Traversal          | Medium     | Python       |
