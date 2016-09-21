@@ -8,7 +8,7 @@
 | 67            | Add Binary                                        | Easy       | Python       |
 | 258           | Add Digits                                        | Easy       | Python       |
 | 2             | Add Two Numbers                                   | Medium     | Java         |
-| 211           | Add and Search Word                               | Medium     | Python/Java  |
+| 211           | Add and Search Word                               | Medium     | Python       |
 | 306           | Additive Number                                   | Medium     | Python       |
 | 110           | Balanced Binary Tree                              | Easy       | Python       |
 | 224           | Basic Calculator                                  | Hard       | Python       |
