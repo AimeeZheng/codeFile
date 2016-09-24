@@ -46,5 +46,3 @@ class Solution(object):
             return False
         return True
         
-x = Solution()
-print(x.calculate("14-3/2"))
