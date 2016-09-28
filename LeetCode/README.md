@@ -31,3 +31,4 @@
 | 145           | Binary Tree Postorder Traversal                   | Hard       | Python       |
 | 199           | Binary Tree Right Side View                       | Medium     | Python       |
 | 103           | Binary Tree Zigzag Level Order Traversal          | Medium     | Python       |
+| 401           | Binary Watch                                      | Easy       | Python       |
