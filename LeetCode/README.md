@@ -39,3 +39,6 @@
 | 396           | Rotate Function                                   | Easy       | Python       |
 | 66            | Plus One                                          | Easy       | Python       |
 | 70            | Climbing Stairs                                   | Easy       | Python       |
+| 198           | House Robber                                      | Easy       | Python       |
+| 303           | Range Sum Query - Immutable                       | Easy       | Python       |
+| 189           | Rotate Array                                      | Easy       | Python       |
