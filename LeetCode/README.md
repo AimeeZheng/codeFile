@@ -33,3 +33,9 @@
 | 103           | Binary Tree Zigzag Level Order Traversal          | Medium     | Python       |
 | 401           | Binary Watch                                      | Easy       | Python       |
 | 299           | Bulls and Cows                                    | Easy       | Python       |
+| 165           | Compare Version Numbers                           | Easy       | Python       |
+| 217           | Contains Duplicate                                | Easy       | Python       |
+| 219           | Contains Duplicate 2                              | Easy       | Python       |
+| 396           | Rotate Function                                   | Easy       | Python       |
+| 66            | Plus One                                          | Easy       | Python       |
+| 70            | Climbing Stairs                                   | Easy       | Python       |
