@@ -42,3 +42,9 @@
 | 198           | House Robber                                      | Easy       | Python       |
 | 303           | Range Sum Query - Immutable                       | Easy       | Python       |
 | 189           | Rotate Array                                      | Easy       | Python       |
+| 283           | Move Zeroes                                       | Easy       | Python       |
+| 118           | Pascal's Triangle                                 | Easy       | Python       |
+| 119           | Pascal's Triangle 2                               | Easy       | Python       |
+| 26            | Remove Duplicates from Sorted Array               | Easy       | Python       |
+| 27            | Remove Element                                    | Easy       | Python       |
+| 169           | Majority Element                                  | Easy       | Python       |
