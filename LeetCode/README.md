@@ -48,3 +48,5 @@
 | 26            | Remove Duplicates from Sorted Array               | Easy       | Python       |
 | 27            | Remove Element                                    | Easy       | Python       |
 | 169           | Majority Element                                  | Easy       | Python       |
+| 414           | Third Maximum Number                              | Easy       | Python       |
+| 88            | Merge Sorted Array                                | Easy       | Python       |
