@@ -26,7 +26,7 @@
 | 208           | Implement Trie (Prefix Tree)                      | Medium     | Python/Java  |
 | 3             | Longest Substring without Repeating Characters    | Medium     | Java         |
 | 7             | Reverse Integer                                   | Easy       | Python       |
-| 1             | Two Sum                                           | Easy       | Java         |
+| 1             | Two Sum                                           | Easy       | Python/Java  |
 | 6             | ZigZag Conversion                                 | Easy       | Java         |
 | 145           | Binary Tree Postorder Traversal                   | Hard       | Python       |
 | 199           | Binary Tree Right Side View                       | Medium     | Python       |
@@ -50,3 +50,7 @@
 | 169           | Majority Element                                  | Easy       | Python       |
 | 414           | Third Maximum Number                              | Easy       | Python       |
 | 88            | Merge Sorted Array                                | Easy       | Python       |
+| 162           | Find Peak Element                                 | Medium     | Python       |
+| 167           | Two Sum 2 - Input array is sorted                 | Medium     | Python       |
+| 268           | Missing Number                                    | Medium     | Python       | 
+| 153           | Find Minimum in Rotated Sorted Array              | Medium     | Python       | 
