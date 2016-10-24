@@ -53,4 +53,9 @@
 | 162           | Find Peak Element                                 | Medium     | Python       |
 | 167           | Two Sum 2 - Input array is sorted                 | Medium     | Python       |
 | 268           | Missing Number                                    | Medium     | Python       | 
-| 153           | Find Minimum in Rotated Sorted Array              | Medium     | Python       | 
+| 153           | Find Minimum in Rotated Sorted Array              | Medium     | Python       |
+| 64            | Minimum Path Sum                                  | Medium     | Python       | 
+| 120           | Triangle                                          | Medium     | Python       |
+| 75            | Sort Colors                                       | Medium     | Python       |
+| 53            | Maximum Subarray                                  | Medium     | Python       |
+| 152           | Maximum Product Subarray                          | Medium     | Python       |  
