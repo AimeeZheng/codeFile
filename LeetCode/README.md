@@ -58,4 +58,6 @@
 | 120           | Triangle                                          | Medium     | Python       |
 | 75            | Sort Colors                                       | Medium     | Python       |
 | 53            | Maximum Subarray                                  | Medium     | Python       |
-| 152           | Maximum Product Subarray                          | Medium     | Python       |  
+| 152           | Maximum Product Subarray                          | Medium     | Python       |
+| 349           | Intersection of Two Arrays                        | Medium     | Python       |
+| 350           | Intersection of Two Arrays 2                      | Medium     | Python       |   
