@@ -60,4 +60,6 @@
 | 53            | Maximum Subarray                                  | Medium     | Python       |
 | 152           | Maximum Product Subarray                          | Medium     | Python       |
 | 349           | Intersection of Two Arrays                        | Medium     | Python       |
-| 350           | Intersection of Two Arrays 2                      | Medium     | Python       |   
+| 350           | Intersection of Two Arrays 2                      | Medium     | Python       |
+| 278           | First Bad Version                                 | Medium     | Python       |
+| 374           | Guess Number Higher or Lower                      | Medium     | Python       |   
