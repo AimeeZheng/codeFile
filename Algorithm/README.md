@@ -8,3 +8,10 @@
     > Preorder
 
     > Postorder
+
+* Sort
+	> QuickSort
+
+	> HeapSort
+
+	> MergeSort
