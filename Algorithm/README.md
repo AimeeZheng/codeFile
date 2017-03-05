@@ -3,11 +3,13 @@
 
 * Binary Tree Traversal (recursive / iterative)
 
-    > Inorder
+    > InOrder
 
-    > Preorder
+    > PreOrder
 
-    > Postorder
+    > PostOrder
+
+    > LeverOrder
 
 * Sort
 	> QuickSort
@@ -15,3 +17,7 @@
 	> HeapSort
 
 	> MergeSort
+
+	> InsertionSort
+
+	> CountingSort
