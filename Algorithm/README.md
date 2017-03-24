@@ -21,3 +21,9 @@
 	> InsertionSort
 
 	> CountingSort
+
+* Array
+	> Longest common sequence
+
+* Other
+	> Hanoi
