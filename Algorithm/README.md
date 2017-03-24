@@ -25,5 +25,8 @@
 * Array
 	> Longest common sequence
 
-* Other
+* String
+	> KMP 
+
+* DP
 	> Hanoi
